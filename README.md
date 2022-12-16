@@ -35,22 +35,22 @@ This is a fork of [ALVR](https://github.com/polygraphene/ALVR).
 
 -   802.11ac 5Ghz wireless or ethernet wired connection  
     -   It is recommended to use 802.11ac 5Ghz for the headset and ethernet for PC  
-    -   You need to connect both the PC and the headset to same router (or use a routed connection as described [here](https://github.com/alvr-org/ALVR/wiki/ALVR-client-and-server-on-separate-networks))
+    -   You need to connect both the PC and the headset to same router (or use a routed connection as described [here](https://github.com/alvr-org/ALVR/wiki/ALVR-v14-and-Above))
 
 ## Install
 
-Follow the installation guide [here](https://github.com/alvr-org/ALVR/wiki/Installation).
+Follow the Basic-installation guide [here](https://github.com/alvr-org/ALVR/wiki/Basic-installation).
 
 ## Troubleshooting
 
 -   Please check the [Troubleshooting](https://github.com/alvr-org/ALVR/wiki/Troubleshooting) page. The original repository [wiki](https://github.com/polygraphene/ALVR/wiki/Troubleshooting) can also help.  
--   Configuration recommendations and information may be found [here](https://github.com/alvr-org/ALVR/wiki/Configuration-Information-and-Recommendations)
+-   Configuration recommendations and information may be found [here](https://github.com/alvr-org/ALVR/wiki/PC)
 
 ## Uninstall
 
-Open `ALVR Launcher.exe`, go to `Installation` tab then press `Remove firewall rules`. Close ALVR window and delete the ALVR folder.
+Open `ALVR Launcher.exe`, go to `Basic-installation` tab then press `Remove firewall rules`. Close ALVR window and delete the ALVR folder.
 
-If you have a version prior to v12.0 you need to launch `remove_firewall_rules.bat` and `driver_uninstall.bat` in the installation folder.
+If you have a version prior to v12.0 you need to launch `remove_firewall_rules.bat` and `driver_uninstall.bat` in the Basic-installation folder.
 
 ## Build from source
 

@@ -34,7 +34,7 @@ Cons:
 - ZeroTier APK for your Quest (you can find it online)
 - SideQuest or some other method to install the ZeroTier APK onto your headset
 
-### Installation
+### Basic-installation
 Use the "Install APK" function of SideQuest to install the ZeroTier APK to your Quest, and also download and install ZeroTier on your PC. After you've installed ZeroTier, follow Zerotier's official [Getting Started](https://zerotier.atlassian.net/wiki/spaces/SD/pages/8454145/Getting+Started+with+ZeroTier) guide to setup a network for ALVR. Join the network on both the Quest and the PC. On the Quest, make sure that the network is enabled by switching on the slider on the network in the list in the ZeroTier app (you may be prompted to allow ZeroTier to create a VPN connection). 
 
 After both your PC and your Quest are connected to the same ZeroTier network, we'll need to manually add your quest to the ALVR dashboard. To do so, we'll need to find your Quest's ZeroTier IP. There are two ways to do this. 

@@ -120,7 +120,7 @@ jobs:
           asset_content_type: application/zip
 
   build_linux_server:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     needs: [prepare_release]
     steps:
       - uses: actions/checkout@v2
@@ -182,7 +182,7 @@ jobs:
           asset_content_type: application/octet-stream
 
   build_quest_client:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     needs: [prepare_release]
     steps:
       - uses: actions/checkout@v2

@@ -749,7 +749,7 @@ void eventsThread() {
             }
         }
 
-        deadline += std::chrono::nanoseconds((uint64_t) (1e9 / CTX.refreshRate / 3));
+        deadline += std::chrono::nanoseconds((uint64_t) (1e9 / CTX.refreshRate));
         std::this_thread::sleep_until(deadline);
     }
 }

@@ -1,6 +1,6 @@
 **Start here**
 
-* [Basic-installation](https://github.com/alvr-org/ALVR/wiki/Basic-installation)
+* [Basic-Basic-Basic-installation](https://github.com/alvr-org/ALVR/wiki/Basic-Basic-Basic-installation)
 
 * [Settings guide](https://github.com/alvr-org/ALVR/wiki/Settings-guide)
 

@@ -54,7 +54,7 @@ ALVR client will be built into `build/alvr_client_<platform>/`.
 ## Packaged Builds
 
 #### Deb and RPM Distributions
-The build script located at `packaging/alvr_build_linux.sh` allows building of client and server together or independently, along with Basic-installation of any necessary dependencies if requested. This script will respect existing git repositories; if you would like a specific release, simply clone this repository at the release tag you need, then run the script in the directory above the repository.
+The build script located at `packaging/alvr_build_linux.sh` allows building of client and server together or independently, along with Basic-Basic-Basic-installation of any necessary dependencies if requested. This script will respect existing git repositories; if you would like a specific release, simply clone this repository at the release tag you need, then run the script in the directory above the repository.
 
 #### Note:
  * Fedora **client** builds are not recommended as they may potentially pollute the system Rust install; better support for this will be added later
